@@ -28,7 +28,7 @@ OrganizeIt is an Android application designed to help users efficiently organize
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/OrganizeIt.git
+git clone https://github.com/K-B-R-S-W/OrganizeIt.git
 ```
 
 2. Open the project in Android Studio

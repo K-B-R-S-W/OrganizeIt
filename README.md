@@ -43,11 +43,11 @@ git clone https://github.com/K-B-R-S-W/OrganizeIt.git
 app/
 ├── src/
 │   ├── main/
-│   │   ├── java/           # Kotlin/Java source files
-│   │   ├── res/           # Resource files
+│   │   ├── java/           
+│   │   ├── res/           
 │   │   └── AndroidManifest.xml
-│   ├── test/              # Unit tests
-│   └── androidTest/       # Instrumentation tests
+│   ├── test/            
+│   └── androidTest/      
 ```
 
 ## 🔧 Configuration
